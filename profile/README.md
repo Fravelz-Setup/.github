@@ -1,9 +1,5 @@
 # Fravelz Setup
 
-<p align="center">
-  <img src="assets/logo.png" width="128" alt="Logo de Fravelz Setup: tres paneles de un escritorio en mosaico">
-</p>
-
 Configuración personal del equipo en **Arch Linux**: Hyprland, Sway y un stack local de n8n. Los atajos y los temas de Sway siguen los de Hyprdots.
 
 ## Guía
