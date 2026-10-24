@@ -1,5 +1,9 @@
 # Fravelz Setup
 
+<p align="center">
+  <img src="assets/banner.jpg" alt="Banner navy y cian: mapa de puntos, ventanas Wayland y voz" width="100%">
+</p>
+
 Configuración personal del equipo en **Arch Linux** y las herramientas que corren ahí: escritorio, asistente, voz y automatización. Los atajos y los temas de Sway siguen los de Hyprdots.
 
 ## Guía
