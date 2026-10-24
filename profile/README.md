@@ -30,9 +30,8 @@ El código no está publicado. Quedan nombrados aquí para que el mapa de la org
 
 ## Equipo
 
-- Sistema: Arch Linux
-- Sesión principal: Hyprland
-- Sesión alternativa: Sway
-- Voz: fravelz-tts
+- Sistema Operativo: Arch Linux
+- Gestor de ventanas principal: Wayland - Sway
+- Voz loquendo: fravelz-tts
 - Asistente: fravelz-jarvis en el escritorio; Jarvis Mobile en Android
-- Automatización: n8n, apagado a propósito
+- Automatización: n8n
