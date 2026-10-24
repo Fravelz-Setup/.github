@@ -25,8 +25,7 @@ El código no está publicado. Quedan nombrados aquí para que el mapa de la org
 | Proyecto | Qué es | Dirección |
 | --- | --- | --- |
 | fravelz-jarvis | Asistente de escritorio: ventana Qt, memoria en Markdown, agente local y voz. | Privado |
-| fravelz-jarvis-mobile | Compañero Android de entreno, voz, chino y alarmas. El camino vigente de las alarmas. | Privado |
-| fravelz-jarvis-alarm | App Android antigua de alarmas. Deprecada el 2026-08-20. El ring vive en Jarvis Mobile. | Privado |
+| fravelz-jarvis-mobile | Compañero Android de entreno, voz, chino y alarmas. | Privado |
 | n8n | Stack local de automatización en Docker. Pausado el 2026-09-29: el contenedor está apagado y los datos siguen en el volumen. | Privado |
 
 ## Equipo
@@ -36,5 +35,4 @@ El código no está publicado. Quedan nombrados aquí para que el mapa de la org
 - Sesión alternativa: Sway
 - Voz: fravelz-tts
 - Asistente: fravelz-jarvis en el escritorio; Jarvis Mobile en Android
-- Alarmas Android: Jarvis Mobile. fravelz-jarvis-alarm queda como referencia
 - Automatización: n8n, apagado a propósito
