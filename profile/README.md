@@ -19,6 +19,7 @@ Documentación pública de Hyprdots: atajos, temas, wallpapers, mantenimiento y 
 | [Config-Hyprdots](https://github.com/Fravelz-Setup/Config-Hyprdots) | Escritorio Hyprland modular: Waybar, Kitty, temas y SDDM. | [Repo](https://github.com/Fravelz-Setup/Config-Hyprdots) · [guía](https://fravelz.github.io/WEB-Hyprdots/) |
 | [Hyprdots-Simple](https://github.com/Fravelz-Setup/Hyprdots-Simple) | El mismo escritorio con menos piezas: Hyprland, Waybar, Kitty, Neovim y Zsh. | [Repo](https://github.com/Fravelz-Setup/Hyprdots-Simple) |
 | [Config-Sway](https://github.com/Fravelz-Setup/Config-Sway) | Sesión Sway (Wayland) alineada a los atajos y temas de Hyprdots. Incluye `install.sh`. | [Repo](https://github.com/Fravelz-Setup/Config-Sway) |
+| [pyside-calc](https://github.com/Fravelz-Setup/pyside-calc) | Calculadora flotante en PySide6 para Sway. Evalúa la expresión y copia el resultado. | [Repo](https://github.com/Fravelz-Setup/pyside-calc) |
 | [fravelz-tts](https://github.com/Fravelz-Setup/fravelz-tts) | Texto a voz de escritorio. Voces en línea con edge-tts y voces locales con Piper. Ventana PySide6, navy y cian. | [Repo](https://github.com/Fravelz-Setup/fravelz-tts) |
 | [.github](https://github.com/Fravelz-Setup/.github) | Este perfil de la organización. | [Repo](https://github.com/Fravelz-Setup/.github) |
 
