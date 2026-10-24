@@ -39,3 +39,6 @@ El código no está publicado. Quedan nombrados aquí para que el mapa de la org
 - Voz loquendo: fravelz-tts
 - Asistente: fravelz-jarvis en el escritorio; Jarvis Mobile en Android
 - Automatización: n8n
+
+> [!NOTE]
+> **¡Cordial Saludo!** - Fravelz :)
