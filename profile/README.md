@@ -1,6 +1,6 @@
 # Fravelz Setup
 
-Configuración personal del equipo en **Arch Linux**: Hyprland, Sway y un stack local de n8n. Los atajos y los temas de Sway siguen los de Hyprdots.
+Configuración personal del equipo en **Arch Linux** y las herramientas que corren ahí: escritorio, asistente, voz y automatización. Los atajos y los temas de Sway siguen los de Hyprdots.
 
 ## Guía
 
@@ -8,18 +8,33 @@ Configuración personal del equipo en **Arch Linux**: Hyprland, Sway y un stack 
 
 Documentación pública de Hyprdots: atajos, temas, wallpapers, mantenimiento y SDDM. El repositorio de esa página es [FraVelz/WEB-Hyprdots](https://github.com/FraVelz/WEB-Hyprdots). Sigue en la cuenta personal porque GitHub Pages la publica en esa URL.
 
-## Repositorios
+## Repositorios públicos
 
 | Proyecto | Qué es | Dirección |
 | --- | --- | --- |
 | [Config-Hyprdots](https://github.com/Fravelz-Setup/Config-Hyprdots) | Escritorio Hyprland modular: Waybar, Kitty, temas y SDDM. | [Repo](https://github.com/Fravelz-Setup/Config-Hyprdots) · [guía](https://fravelz.github.io/WEB-Hyprdots/) |
 | [Hyprdots-Simple](https://github.com/Fravelz-Setup/Hyprdots-Simple) | El mismo escritorio con menos piezas: Hyprland, Waybar, Kitty, Neovim y Zsh. | [Repo](https://github.com/Fravelz-Setup/Hyprdots-Simple) |
 | [Config-Sway](https://github.com/Fravelz-Setup/Config-Sway) | Sesión Sway (Wayland) alineada a los atajos y temas de Hyprdots. Incluye `install.sh`. | [Repo](https://github.com/Fravelz-Setup/Config-Sway) |
-| n8n | Stack local de automatización en Docker. Repositorio privado. Pausado el 2026-09-29: el contenedor está apagado y los datos siguen en el volumen. | Sin URL pública |
+| [fravelz-tts](https://github.com/Fravelz-Setup/fravelz-tts) | Texto a voz de escritorio. Voces en línea con edge-tts y voces locales con Piper. Ventana PySide6, navy y cian. | [Repo](https://github.com/Fravelz-Setup/fravelz-tts) |
+| [.github](https://github.com/Fravelz-Setup/.github) | Este perfil de la organización. | [Repo](https://github.com/Fravelz-Setup/.github) |
+
+## Repositorios privados
+
+El código no está publicado. Quedan nombrados aquí para que el mapa de la organización esté completo.
+
+| Proyecto | Qué es | Dirección |
+| --- | --- | --- |
+| fravelz-jarvis | Asistente de escritorio: ventana Qt, memoria en Markdown, agente local y voz. | Privado |
+| fravelz-jarvis-mobile | Compañero Android de entreno, voz, chino y alarmas. El camino vigente de las alarmas. | Privado |
+| fravelz-jarvis-alarm | App Android antigua de alarmas. Deprecada el 2026-08-20. El ring vive en Jarvis Mobile. | Privado |
+| n8n | Stack local de automatización en Docker. Pausado el 2026-09-29: el contenedor está apagado y los datos siguen en el volumen. | Privado |
 
 ## Equipo
 
 - Sistema: Arch Linux
 - Sesión principal: Hyprland
 - Sesión alternativa: Sway
+- Voz: fravelz-tts
+- Asistente: fravelz-jarvis en el escritorio; Jarvis Mobile en Android
+- Alarmas Android: Jarvis Mobile. fravelz-jarvis-alarm queda como referencia
 - Automatización: n8n, apagado a propósito
